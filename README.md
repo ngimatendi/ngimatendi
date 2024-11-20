@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngimatendi&label=Profile%20views&color=0e75b6&style=flat" alt="ngimatendi" /> </p>
 
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2h5ZGlteWQ4bXVheWZhZzBlbzg0N2xzaW96cGR6a21ueGYxNjlraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TiOqn7ULebEcCwMlY3/giphy.gif" alt="luffy"  />
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VwemQ2MG1najlxNG5nc3VtanN4NGFrMXNvYXhmMW50Nmp0eXhlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bGmzbqDKcmvyU/giphy.gif" alt="luffy"  />
 
 - 🔭 I’m currently working on **Jhol Momo ERP System**
 
