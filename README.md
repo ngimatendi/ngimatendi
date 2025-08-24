@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **N9 Solutions Training Web App**
 
-- 👨‍💻 All of my projects are available at [mingtindu.com.np](mingtindu.com.np)
+- 👨‍💻 All of my projects are available at [mingtindu.com.np](https://ngimatendi.com.np)
 
 - 💬 Ask me about **React ⚛️ | Next.js 🚀 | Tailwind CSS 🎨 | GitHub 📂**
 
